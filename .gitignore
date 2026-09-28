@@ -1,0 +1,12 @@
+# Executables
+*.exe
+*.app
+GeminiInsightApp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.dSYM
